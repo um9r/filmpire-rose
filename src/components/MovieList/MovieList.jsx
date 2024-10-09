@@ -6,7 +6,6 @@ import { Movie } from '..';
 
 const MovieList = ({ movies, numberOfMovies }) => {
     const classes = useStyles();
-    console.log('movie list')
 
   return (
     <Grid2 container className={classes.moviesContainer}>

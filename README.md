@@ -19,7 +19,7 @@ Prerequisites
 Node.js (>=14.x)
 npm or yarn
 Steps to Run Locally
-1. Clone the repository: git clone https://github.com/your-username/movie-explorer.git  
+1. Clone the repository: git clone https://github.com/um9r/filmpire-rose  
 cd movie-explorer  
 2. Install dependencies: npm install  
 3. Start the development server: npm start
